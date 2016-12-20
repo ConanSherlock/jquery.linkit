@@ -11,7 +11,6 @@
         text : 'Click Me',
         target: '\_blank'
     });
-    
 
 ## Vendors ##
 jQuery - [http://jquery.com](http://jquery.com)
