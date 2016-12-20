@@ -1,0 +1,33 @@
+{
+    "name": "linkit",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Conan Sherlock",
+        "url": "https://github.com/ConanSherlock"
+    },
+    "maintainers": [
+        {
+            "name": "Conan Sherlock",
+            "email": "conan.sherlock@ucdconnect.ie",
+            "url": "https://github.com/ConanSherlock"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/ConanSherlock/jquery.linkit/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/ConanSherlock/jquery.linkit",
+    "docs": "https://github.com/ConanSherlock/jquery.linkit",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
