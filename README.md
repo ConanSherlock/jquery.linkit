@@ -9,7 +9,7 @@
     $('span').linkit({
         href : 'http://test.com',
         text : 'Click Me',
-        target: '\_blank'
+        target: '_blank'
     });
 
 ## Vendors ##
